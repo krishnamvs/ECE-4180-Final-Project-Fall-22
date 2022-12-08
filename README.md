@@ -16,7 +16,7 @@ Demonstration (5min):
 * [Parts List](#parts-list)
 * [Schematic and Connection Guide](#schematic-and-connection-guide)
 * [Source Code](#source-code)
-* [Future Direction](#future-direction)
+* [Future Work](#future-work)
 
 ## Project Idea
 
@@ -68,4 +68,7 @@ Link to Final Project Code -> https://os.mbed.com/users/krishnamvs/code/ECE4180F
 
 Link to ENS160 Library -> https://os.mbed.com/users/krishnamvs/code/ENS160_Library/
 
-## Raspberry Pi Pico Library for ENS160 Sensor
+## Future Work
+
+We developed a C++ based driver for ENS160 for the Raspberry Pi Pico. But due to issues with printf's on TinyUSB in the Pi Pico C++ SDK 1.4.0 we were unable to fully test it. As the Pi Pico C++ SDK matures, we hope that we can verify the driver we have developed.
+
