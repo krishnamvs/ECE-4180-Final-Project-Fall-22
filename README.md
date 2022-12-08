@@ -38,13 +38,15 @@ Electronics:
 ## Schematic and Connection Guide
 
 #### Device Setup
+
 Here is a few picture of our setup we used for the presentation demo.
 
-![alt text](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Setup.png)
+<img width="384" alt="Setup" src="https://user-images.githubusercontent.com/29601249/206524220-d715f1f4-a34a-4a29-80b6-bd622c163a46.png">
 
 #### Schematic
 
-![alt text](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Schematic.png)
+![Schematic](https://user-images.githubusercontent.com/29601249/206524154-da763efb-baf2-48f2-a6d6-9be25cbd800f.png)
+
 
 #### Connections
 | mbed        |  Push Button |   ENS160  |    uLCD   | 
