@@ -23,7 +23,9 @@ Demonstration (5min):
 ## Project Idea
 
 In our lab experiments we used a lot of Libraries from the mbed community. We wanted contribute back to them and hone our C++ skills. 
+
 We narrowed down on the SparkFun Qwiic ENS160 Air Quality Sensor as it was very recently launched and would be significantly challenging to write a C++ based I2C driver for mbed board.
+
 We also planned on extending our driver to Raspberry Pi 4 Model B and Raspberry Pi Pico. We worked on the Pi Pico driver but faced multiple issues trying to debug it.
 
 ## Parts List
@@ -59,7 +61,9 @@ Here is a few picture of our demo.
 
 ## Source Code
 All the source code is published in the mbed repository.
+
 Link to Final Project Code -> https://os.mbed.com/users/krishnamvs/code/ECE4180FinalProjectFall22/
+
 Link to ENS160 Library -> https://os.mbed.com/users/krishnamvs/code/ENS160_Library/
 
 ## Raspberry Pi Pico Library for ENS160 Sensor
