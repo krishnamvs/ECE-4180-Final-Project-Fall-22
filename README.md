@@ -1,8 +1,6 @@
 # Developing a C++ based driver for ENS160 Sensor for mbed LPC1768
 
-**Team Members: Poorvi Bhaskar, Shreyaa Senthilnathan, Surya Senthilkumar Shanthi, Venkata Siva Krishna Madala
-
-**
+**Team Members: Poorvi Bhaskar, Shreyaa Senthilnathan, Surya Senthilkumar Shanthi, Venkata Siva Krishna Madala**
 
 **Georgia Institute of Technology**
 
@@ -41,10 +39,10 @@ Electronics:
 
 #### Device Setup
 Here is a few picture of our demo.
-![](https://github.com/oscargao98/4180_Final_Project/blob/main/Setup.png)
+![](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Setup.png)
 
 #### Schematic
-![](https://github.com/oscargao98/4180_Final_Project/blob/main/Schematic.png)
+![](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Schematic.png)
 
 #### Connections
 | mbed        |  Push Button |   ENS160  |    uLCD   | 
