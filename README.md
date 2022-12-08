@@ -39,9 +39,11 @@ Electronics:
 
 #### Device Setup
 Here is a few picture of our setup we used for the presentation demo.
+
 ![alt text](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Setup.png)
 
 #### Schematic
+
 ![alt text](https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/main/Schematic.png)
 
 #### Connections
