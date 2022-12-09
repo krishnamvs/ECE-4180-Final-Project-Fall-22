@@ -8,7 +8,7 @@ Watch our video presentation and demo:
 
 Presentation (5min): https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22/blob/main/ECE4180FinalPresentation.pptx
 
-Demonstration (5min): https://www.youtube.com/watch?v=-VLmSOSdbys
+Demonstration (5min): https://www.youtube.com/watch?v=4Gfi7DoumOI
 
 
 ## Table of Content
